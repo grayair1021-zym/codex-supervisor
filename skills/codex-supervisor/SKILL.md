@@ -7,6 +7,8 @@ description: Coordinate authorized independent Codex tasks, supervise their deli
 
 Own coordination and acceptance; spare the user window lookup, message forwarding, routine repairs and task bookkeeping. Follow the project's engineering and verification practices; use engineering-workflow if installed. Current user instructions and applicable permissions govern every action. If required native task tools are unavailable, report the affected limitation without pretending to coordinate independent chats.
 
+Optimize for the coordination cost, rework and human attention needed to complete the task, rather than the number of agents running at once.
+
 Handle simple work directly. For parallel work finishable within the current task, prefer in-task subagents when available and authorized. Use this independent-thread workflow only when separate user-facing windows, cross-session continuation or supervisory handoff is needed; otherwise skip it. Parallelism alone does not justify new chats.
 
 ## PLAN

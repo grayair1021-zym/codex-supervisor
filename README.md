@@ -6,6 +6,8 @@
 
 所以有了这个小总管：让一个主窗口负责协调、检查交付和接班，把这些跑腿工作尽量交还给 Codex。人只在真正需要判断或授权的时候出场。
 
+> 优秀的多 Agent 系统，不以同时运行多少 Agent 为目标，而以完成任务所需的协调成本、返工成本和人类注意力为优化对象。
+
 An instruction-only Codex Skill for coordinating independent tasks and handing work over between chats—with less window hopping and message forwarding.
 
 ## 它负责什么
