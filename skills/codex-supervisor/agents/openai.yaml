@@ -1,0 +1,6 @@
+interface:
+  display_name: "Codex 总管"
+  short_description: "协调获授权的独立 Codex 任务、验收交付并按记录接管未完成工作"
+  default_prompt: "Use $codex-supervisor to coordinate authorized independent Codex tasks."
+policy:
+  allow_implicit_invocation: true
